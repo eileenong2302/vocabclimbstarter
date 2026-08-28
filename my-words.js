@@ -27,8 +27,9 @@ const VOCAB = [
   { word: "斟酌", def: "反复考虑，仔细掂量是否合适" },
   { word: "潜移默化", def: "在不知不觉中受到影响而发生变化" },
   { word: "锲而不舍", def: "一直刻下去不放手，比喻有恒心、不放弃" },
-  { word: "南辕北辙", def: "行动和目的正好相反，永远到不了" },
-  { word: "举一反三", def: "从一件事类推，懂得其他许多事" },
+  { word: "半途而废", def: "做事做到一半没有坚持下去" },
+  { word: "按部就班", def: "根据一定步骤做事，一步一步来" },
+  { word: "废寝忘食", def: "做事非常专心到忘记吃饭睡觉" },
   // ↑ 照上面的格式往下加就行。别忘了行尾的逗号。
   // ↑ Add more in the same format. Don't forget the comma at the end of each line.
 ];
